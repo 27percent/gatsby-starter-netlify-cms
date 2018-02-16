@@ -9,7 +9,7 @@ description: Some subline here
 
 # Blah
 
-Blah **blah **_blah **blah**_
+**blah** _**blah**_ _blah_ blah
 
 > Some quote
 
